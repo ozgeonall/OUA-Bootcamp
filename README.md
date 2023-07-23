@@ -30,8 +30,34 @@ To-Do List uygulaması kullanıcılara yapılacaklar listesi oluşturma imkanı 
 
 # Sprint 1
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 5
-- **Daily Scrum**: 
-- **Sprint Review**: Kullanıcı temel sayfaları oluşturulmuş ve eksiklikler değerlendirilmiştir.
+- **Sprint içinde tamamlanması tahmin edilen puan**: 10
+ 
+- **Sprint Review**: Temel özellikler değerlendirildi.
+  
 - **Backlog**:
-- - Basit ve kullanıcı dostu bir arayüz tasarlayın (Puan: 5)
+- - Basit ve kullanıcı dostu bir arayüz tasarla (5)
+  - Görev butonu tasarla (5)
+ 
+# Sprint 2
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 15
+ 
+- **Sprint Review**: Ek özellikler eklendi. 
+  
+- **Backlog**:
+- - Görev ekle kutucuğu tasarla (5)
+  - Görev ekle ve iptal butonu tasarla (5)
+  - Text kutucuğu ekle (5)
+
+# Sprint 3
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 10
+ 
+- **Sprint Review**: Görev kutucukları geliştirildi.
+  
+- **Backlog**:
+- - Görev kutucuklarının başına işaret kutucuğu tasarla (5)
+  - Görev kutucuklarının sonuna silme butonu tasarla (5)
+ 
+- **Sprint Retrospective:**
+- - Uygulama tamamlandı. 
