@@ -10,7 +10,7 @@ Takım Flutter 39 - Bireysel Ürün
 
 To-Do List App
 
-## Product Backlog URL
+## Product Backlog URL: https://miro.com/app/board/uXjVMzl08jY=/
 
 ## Ürün Açıklaması
 
@@ -34,9 +34,7 @@ To-Do List uygulaması kullanıcılara yapılacaklar listesi oluşturma imkanı 
  
 - **Sprint Review**: Temel özellikler değerlendirildi.
   
-- **Backlog**:
-- - Basit ve kullanıcı dostu bir arayüz tasarla (5)
-  - Görev butonu tasarla (5)
+- **Backlog**: https://miro.com/app/board/uXjVMzl08jY=/
  
 # Sprint 2
 
@@ -44,10 +42,7 @@ To-Do List uygulaması kullanıcılara yapılacaklar listesi oluşturma imkanı 
  
 - **Sprint Review**: Ek özellikler eklendi. 
   
-- **Backlog**:
-- - Görev ekle kutucuğu tasarla (5)
-  - Görev ekle ve iptal butonu tasarla (5)
-  - Yazı kısmını ekle (5)
+- **Backlog**: https://miro.com/app/board/uXjVMzl08jY=/ 
 
 # Sprint 3
 
@@ -55,9 +50,7 @@ To-Do List uygulaması kullanıcılara yapılacaklar listesi oluşturma imkanı 
  
 - **Sprint Review**: Görev kutucukları geliştirildi.
   
-- **Backlog**:
-- - Görev kutucuklarının başına işaret kutucuğu tasarla (5)
-  - Görev kutucuklarının sonuna silme butonu tasarla (5)
- 
+- **Backlog**: https://miro.com/app/board/uXjVMzl08jY=/
+
 - **Sprint Retrospective:**
 - - Uygulama tamamlandı. 
