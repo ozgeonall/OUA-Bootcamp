@@ -47,7 +47,7 @@ To-Do List uygulaması kullanıcılara yapılacaklar listesi oluşturma imkanı 
 - **Backlog**:
 - - Görev ekle kutucuğu tasarla (5)
   - Görev ekle ve iptal butonu tasarla (5)
-  - Text kutucuğu ekle (5)
+  - Yazı kısmını ekle (5)
 
 # Sprint 3
 
