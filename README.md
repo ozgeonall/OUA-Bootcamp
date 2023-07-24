@@ -44,7 +44,9 @@ To-Do List uygulaması kullanıcılara yapılacaklar listesi oluşturma imkanı 
  
 - **Sprint Review**: Ek özellikler eklendi. 
   
-- **Backlog**: https://miro.com/app/board/uXjVMzl08jY=/ 
+- **Backlog**: https://miro.com/app/board/uXjVMzl08jY=/
+
+- ![Screenshot 2](https://github.com/ozgeonall/OUA-Bootcamp/blob/main/project_name/project_images/to%20do%20(2).png)
 
 # Sprint 3
 
@@ -53,6 +55,9 @@ To-Do List uygulaması kullanıcılara yapılacaklar listesi oluşturma imkanı 
 - **Sprint Review**: Görev kutucukları geliştirildi.
   
 - **Backlog**: https://miro.com/app/board/uXjVMzl08jY=/
+
+- ![Screenshot 3](https://github.com/ozgeonall/OUA-Bootcamp/blob/main/project_name/project_images/to%20do%20(3).png)
+- ![Screenshot 4](https://github.com/ozgeonall/OUA-Bootcamp/blob/main/project_name/project_images/to%20do%20(4).png)
 
 - **Sprint Retrospective:**
 - - Uygulama tamamlandı. 
