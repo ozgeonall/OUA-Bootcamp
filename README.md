@@ -35,6 +35,8 @@ To-Do List uygulaması kullanıcılara yapılacaklar listesi oluşturma imkanı 
 - **Sprint Review**: Temel özellikler değerlendirildi.
   
 - **Backlog**: https://miro.com/app/board/uXjVMzl08jY=/
+
+- ![Screenshot 1](https://github.com/ozgeonall/OUA-Bootcamp/blob/main/project_name/project_images/to%20do%20(1).png)
  
 # Sprint 2
 
